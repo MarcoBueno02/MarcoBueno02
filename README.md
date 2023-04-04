@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Marco Bueno
-- 🔭 Atualmente estou estagiando na Imprensa Oficial do Estado de Alagoas
+- 🔭 Fui estagiario da Imprensa Oficial do Estado de Alagoas
 - 🌱 Estudando Phyton
 - 📫 contate-me pelo email : marquinhosbueno59@gmail.com
 
