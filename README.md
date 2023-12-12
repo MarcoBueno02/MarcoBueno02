@@ -1,7 +1,14 @@
-### Olá! Eu sou o Marco Bueno
-- 🔭 Fui estagiario da Imprensa Oficial do Estado de Alagoas
-- 🌱 Estudando Front-end
-- 📫 contate-me pelo email : marquinhosbueno59@gmail.com
+👋 Olá, sou Marco Bueno!
+
+🔧 Estagiário de Suporte na Unimed Maceió.
+
+🚀 Atualmente, estou embarcando na empolgante jornada do desenvolvimento Front-end.
+
+📚 Estudante dedicado e entusiasta de tecnologia, estou constantemente aprimorando minhas habilidades para oferecer soluções eficientes.
+
+💻 Busco contribuir para a criação de experiências incríveis por meio do desenvolvimento web.
+
+🌐 Aprendendo, crescendo e compartilhando conhecimento! Vamos juntos nessa jornada de código.
 
 <div align="center">
   <a href="https://github.com/MarcoBueno02">
