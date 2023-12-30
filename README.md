@@ -10,7 +10,7 @@
 
 🌐 Aprendendo, crescendo e compartilhando conhecimento! Vamos juntos nessa jornada de código.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoBueno02&show_icons=true&theme=radical)
 
 </div>
   <div style="display: inline_block"><br>
