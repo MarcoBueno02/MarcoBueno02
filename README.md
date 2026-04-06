@@ -1,7 +1,5 @@
 👋 Olá, sou Marco Bueno!
 
-🔧 Estagiário de Suporte na Unimed Maceió.
-
 🚀 Atualmente, estou embarcando na empolgante jornada do desenvolvimento Front-end.
 
 📚 Estudante dedicado e entusiasta de tecnologia, estou constantemente aprimorando minhas habilidades para oferecer soluções eficientes.
@@ -10,7 +8,6 @@
 
 🌐 Aprendendo, crescendo e compartilhando conhecimento! Vamos juntos nessa jornada de código.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoBueno02&show_icons=true&theme=merko)
 
 </div>
   <div style="display: inline_block"><br>
